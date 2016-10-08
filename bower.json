@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-ko",
+  "description": "The most comprehensive collection of stopwords for the korean language.",
+  "keywords": [
+    "korean",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-ko",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-ko.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
